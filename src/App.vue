@@ -15,8 +15,14 @@
 
 </template>
 
-<script>
 
+
+
+
+
+
+<script>
+import "milligram";
 
 export default {
   name: 'app',
@@ -42,3 +48,6 @@ LogOut() {
 }
 }
 </script>
+
+
+
